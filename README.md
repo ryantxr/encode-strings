@@ -1,4 +1,4 @@
-# StringEncoder
+# Obfuscoder
 Encodes and decodes strings. This is a very slim library to encode and decodes strings, somewhat similar to hashids.
 The encoded string can be decoded to get the original string.
 
